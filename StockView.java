@@ -66,7 +66,7 @@ public class StockView extends Frame {
 
 		SQL sqlTemp = null;
 		try {
-			sqlTemp = new SQL("C:\\Users\\PC\\Desktop\\POOP Projekat\\src\\Berza.db");
+			sqlTemp = new SQL("Berza.db");
 		} catch (SQLException e) {
 			System.out.println("Neuspesno vezivanje sa bazom: " + e.getMessage());
 		}
