@@ -1,4 +1,4 @@
-# StockViewer
+# StockVIEW
 Java application used to track stock prices and simulate trading using real-time data.
 
 Data is gathered from Yahoo Finance using the CURL library.
